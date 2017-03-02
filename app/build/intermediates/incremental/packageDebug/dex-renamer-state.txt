@@ -1,0 +1,7 @@
+#Sat Jan 07 21:52:18 CST 2017
+base.0=D\:\\workspace-studio\\Game2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ecfcea09d1e74b8d137ebfe9e8f08aba67f5627
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace-studio\\Game2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_edd5873f0f2e811f25d6dce48bebd743ad93ec42\\classes.dex
+base.1=D\:\\workspace-studio\\Game2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_edd5873f0f2e811f25d6dce48bebd743ad93ec42
+file.0=D\:\\workspace-studio\\Game2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6ecfcea09d1e74b8d137ebfe9e8f08aba67f5627\\classes.dex
